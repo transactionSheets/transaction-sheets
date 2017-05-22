@@ -1,0 +1,12 @@
+out
+.classpath
+.settings
+.tern-project
+.project
+target
+classes
+build
+bin
+.DS_Store
+*.class
+*.log
